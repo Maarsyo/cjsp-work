@@ -15,7 +15,7 @@ const News = () => {
         <NewsItem
           name="Windows 11"
           content="Nesta quinta-feira (12), a Microsoft começa a distribuir mais uma atualização para testadores do Windows 11. Os canais Dev e Beta receberamm o novo pacote acompanhado por valiosas adições em aplicativos nativos, incluindo a Calculadora, o Email e a Ferramenta de Captura."
-          to="/messi"
+          to="/windows-11"
         />
       </Content>
     </Container>

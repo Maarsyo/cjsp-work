@@ -20,7 +20,7 @@ const NewsPage = ({ name, content, content2, img }: NewsPageProps) => {
       </Content>
 
       <Right>
-        <img src={img} />
+        <img src={img} alt="Home Image" />
       </Right>
     </Container>
   );

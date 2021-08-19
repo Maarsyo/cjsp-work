@@ -1,8 +1,4 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Home from './components/Home'
-import { Container } from "./styles/app";
-import News from "./components/News";
 import routes from './routes';
 import { Route } from "react-router-dom";
 
